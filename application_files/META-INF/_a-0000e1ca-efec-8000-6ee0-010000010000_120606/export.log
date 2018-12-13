@@ -1,0 +1,82 @@
+Success (3):
+content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 "Sample Folder"
+content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 "SR_TEST1"
+application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 "Sample App"
+
+Trace:
+2018-12-11 09:53:12.607 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Begin transport.
+2018-12-11 09:53:12.607 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Retrieving object data.
+2018-12-11 09:53:12.613 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 App associated objects: [content=[_a-0000e1ca-efec-8000-6ee0-010000010000_120611, _a-0000e1ca-efec-8000-6ee0-010000010000_120617]]
+2018-12-11 09:53:12.614 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Invalid associated objects: []
+2018-12-11 09:53:12.614 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Adding valid associated objects to be exported: GlobalBindingMap[content={_a-0000e1ca-efec-8000-6ee0-010000010000_120611=28752, _a-0000e1ca-efec-8000-6ee0-010000010000_120617=28753}]
+2018-12-11 09:53:12.614 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Setting uuids of object references.
+2018-12-11 09:53:12.615 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Processing reference: Application.forum
+2018-12-11 09:53:12.615 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Processing reference: Application.parent
+2018-12-11 09:53:12.618 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@790a6e24[
+  ContentRole[name=readers,inherit=false,allowForAll=false]
+  ContentRole[name=authors,inherit=false,allowForAll=false]
+  ContentRole[name=administrators,inherit=false,allowForAll=false]
+  ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+  ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+  ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+  securityVector=1:SEC_PUBLIC=true,SEC_CREATOR_ADMIN=false,SEC_INH_ADMIN=false,SEC_INH_EDITOR=false,SEC_INH_VIEWER=false,SEC_ALL_ADMIN=false,SEC_ALL_EDITOR=false,SEC_ALL_VIEWER=false
+]
+2018-12-11 09:53:12.618 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Processing reference: ContentRole[name=readers,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.618 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Processing reference: ContentRole[name=authors,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.618 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Processing reference: ContentRole[name=administrators,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.618 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.618 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.618 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.621 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Begin transport.
+2018-12-11 09:53:12.621 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Retrieving object data.
+2018-12-11 09:53:12.629 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Setting uuids of object references.
+2018-12-11 09:53:12.629 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Processing reference: RulesFolder.forum
+2018-12-11 09:53:12.629 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Processing reference: RulesFolder.parent
+2018-12-11 09:53:12.632 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@2e5daa7a[
+  ContentRole[name=readers,inherit=false,allowForAll=false]
+  ContentRole[name=authors,inherit=false,allowForAll=false]
+  ContentRole[name=administrators,inherit=false,allowForAll=false]
+  ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+  ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+  ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+  securityVector=1:SEC_PUBLIC=true,SEC_CREATOR_ADMIN=false,SEC_INH_ADMIN=false,SEC_INH_EDITOR=false,SEC_INH_VIEWER=false,SEC_ALL_ADMIN=false,SEC_ALL_EDITOR=false,SEC_ALL_VIEWER=false
+]
+2018-12-11 09:53:12.632 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Processing reference: ContentRole[name=readers,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.632 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Processing reference: ContentRole[name=authors,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.632 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Processing reference: ContentRole[name=administrators,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.632 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.632 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.632 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.632 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Completing produce.
+2018-12-11 09:53:12.632 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Exporting binary resources.
+2018-12-11 09:53:12.632 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Serializing object to XML.
+2018-12-11 09:53:12.633 DEBUG content 28752 _a-0000e1ca-efec-8000-6ee0-010000010000_120611 Object transported.
+2018-12-11 09:53:12.633 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Begin transport.
+2018-12-11 09:53:12.633 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Retrieving object data.
+2018-12-11 09:53:12.64 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Setting uuids of object references.
+2018-12-11 09:53:12.64 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Processing reference: [Content:id=28753,versionId=-1,name=SR_TEST1,type=32,subtype=0,uuid=_a-0000e1ca-efec-8000-6ee0-010000010000_120617,parent=28752]
+2018-12-11 09:53:12.64 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Processing reference: Constant.forum
+2018-12-11 09:53:12.641 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Processing reference: Constant.parent
+2018-12-11 09:53:12.644 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@83dabcb[
+  ContentRole[name=readers,inherit=true,allowForAll=false]
+  ContentRole[name=authors,inherit=true,allowForAll=false]
+  ContentRole[name=administrators,inherit=true,allowForAll=false]
+  ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+  ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+  ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+  securityVector=15:SEC_PUBLIC=true,SEC_CREATOR_ADMIN=false,SEC_INH_ADMIN=true,SEC_INH_EDITOR=true,SEC_INH_VIEWER=true,SEC_ALL_ADMIN=false,SEC_ALL_EDITOR=false,SEC_ALL_VIEWER=false
+]
+2018-12-11 09:53:12.644 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Processing reference: ContentRole[name=readers,inherit=true,allowForAll=false]
+2018-12-11 09:53:12.644 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Processing reference: ContentRole[name=authors,inherit=true,allowForAll=false]
+2018-12-11 09:53:12.644 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Processing reference: ContentRole[name=administrators,inherit=true,allowForAll=false]
+2018-12-11 09:53:12.644 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.644 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.644 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+2018-12-11 09:53:12.644 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Completing produce.
+2018-12-11 09:53:12.644 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Exporting binary resources.
+2018-12-11 09:53:12.644 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Serializing object to XML.
+2018-12-11 09:53:12.648 DEBUG content 28753 _a-0000e1ca-efec-8000-6ee0-010000010000_120617 Object transported.
+2018-12-11 09:53:12.648 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Completing produce.
+2018-12-11 09:53:12.648 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Exporting binary resources.
+2018-12-11 09:53:12.648 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Serializing object to XML.
+2018-12-11 09:53:12.649 DEBUG application 28751 _a-0000e1ca-efec-8000-6ee0-010000010000_120606 Object transported.
