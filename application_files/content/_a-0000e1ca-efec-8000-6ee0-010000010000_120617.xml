@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000e1d4-1aa3-8000-6ee0-010000010000_121392</versionUuid>
+    <versionUuid>_a-0000e1d4-1aa3-8000-6ee0-010000010000_121415</versionUuid>
     <constant>
         <name>SR_TEST1</name>
         <uuid>_a-0000e1ca-efec-8000-6ee0-010000010000_120617</uuid>
@@ -20,7 +20,7 @@
                 <name>int</name>
                 <namespace>http://www.w3.org/2001/XMLSchema</namespace>
             </type>
-            <value>456</value>
+            <value>777</value>
         </typedValue>
         <isEnvironmentSpecific>false</isEnvironmentSpecific>
     </constant>
@@ -56,5 +56,6 @@
         <historyInfo versionUuid="_a-0000e1ca-efec-8000-6ee0-010000010000_121192"/>
         <historyInfo versionUuid="_a-0000e1d4-1aa3-8000-6ee0-010000010000_121310"/>
         <historyInfo versionUuid="_a-0000e1d4-1aa3-8000-6ee0-010000010000_121392"/>
+        <historyInfo versionUuid="_a-0000e1d4-1aa3-8000-6ee0-010000010000_121415"/>
     </history>
 </contentHaul>
