@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>b65fba6d-f2c3-4544-881a-36d0e559e16f</versionUuid>
+    <versionUuid>66c735f5-2ca5-44c3-9d3f-41a32c370e64</versionUuid>
     <application>
         <name>Sample App</name>
         <uuid>_a-0000e1ca-efec-8000-6ee0-010000010000_120606</uuid>
@@ -249,5 +249,6 @@
         <historyInfo versionUuid="_a-0000e1ca-efec-8000-6ee0-010000010000_120622"/>
         <historyInfo versionUuid="_a-0000e1d4-1aa3-8000-6ee0-010000010000_121225"/>
         <historyInfo versionUuid="b65fba6d-f2c3-4544-881a-36d0e559e16f"/>
+        <historyInfo versionUuid="66c735f5-2ca5-44c3-9d3f-41a32c370e64"/>
     </history>
-</applicationHaul><!--updated on 2019-03-27T14:10:44.443-->
+</applicationHaul><!--updated on 2019-03-27T16:58:39.982-->
